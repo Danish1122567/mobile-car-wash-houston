@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile car wash service illustration</title>
+  <desc id="desc">A clean vehicle with water, soap, and Houston service markers.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#eaf6ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1e88e5"/>
+      <stop offset="1" stop-color="#0d5fb3"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#0d5fb3" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="900" height="620" rx="34" fill="url(#sky)"/>
+  <circle cx="725" cy="112" r="82" fill="#a5d6a7" opacity=".42"/>
+  <circle cx="130" cy="478" r="108" fill="#1e88e5" opacity=".08"/>
+  <path d="M654 132c54 28 82 75 82 139 0 112-87 203-195 203-57 0-111-26-146-70-21-27-57-39-91-31-75 19-138-37-138-111 0-64 52-116 116-116 21 0 41 6 58 16 45-53 121-69 184-38 41 20 88 24 130 8Z" fill="#fff" opacity=".78"/>
+  <g filter="url(#shadow)">
+    <path d="M210 337h448c32 0 60 22 68 53l15 59H156l15-59c8-31 36-53 69-53Z" fill="#ffffff"/>
+    <path d="M274 262h313c36 0 69 20 86 52l36 69H165l41-74c14-29 44-47 76-47Z" fill="url(#blue)"/>
+    <path d="M316 291h221c32 0 61 18 76 46l12 23H246l26-45c9-15 25-24 44-24Z" fill="#d8efff"/>
+    <path d="M247 405h408c44 0 80 36 80 80v8H168v-8c0-44 35-80 79-80Z" fill="#f7fbff"/>
+    <circle cx="280" cy="493" r="54" fill="#1a2c3f"/>
+    <circle cx="280" cy="493" r="25" fill="#d8efff"/>
+    <circle cx="621" cy="493" r="54" fill="#1a2c3f"/>
+    <circle cx="621" cy="493" r="25" fill="#d8efff"/>
+    <path d="M171 449h570" stroke="#d7e7f5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M196 397h87" stroke="#a5d6a7" stroke-width="13" stroke-linecap="round"/>
+    <path d="M602 397h83" stroke="#a5d6a7" stroke-width="13" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#1e88e5" stroke-linecap="round" stroke-width="12" opacity=".35">
+    <path d="M184 142c42-42 87-63 135-63"/>
+    <path d="M143 203c50-48 101-75 154-81"/>
+    <path d="M689 237c38 23 62 56 72 98"/>
+  </g>
+  <g fill="#1e88e5">
+    <path d="M720 207c0 43-58 110-58 110s-58-67-58-110a58 58 0 1 1 116 0Z"/>
+    <circle cx="662" cy="207" r="21" fill="#ffffff"/>
+  </g>
+  <g fill="#a5d6a7" opacity=".85">
+    <circle cx="136" cy="126" r="16"/>
+    <circle cx="779" cy="405" r="12"/>
+    <circle cx="102" cy="357" r="10"/>
+    <circle cx="805" cy="159" r="8"/>
+  </g>
+</svg>

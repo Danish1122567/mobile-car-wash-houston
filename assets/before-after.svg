@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 420" role="img" aria-labelledby="title desc">
+  <title id="title">Before and after car wash result</title>
+  <desc id="desc">A split visual showing a dull dirty car before service and a bright clean car after service.</desc>
+  <defs>
+    <linearGradient id="left" x1="0" x2="1">
+      <stop offset="0" stop-color="#eef2f5"/>
+      <stop offset="1" stop-color="#d7dde4"/>
+    </linearGradient>
+    <linearGradient id="right" x1="0" x2="1">
+      <stop offset="0" stop-color="#eaf6ff"/>
+      <stop offset="1" stop-color="#f7fff8"/>
+    </linearGradient>
+    <linearGradient id="carClean" x1="0" x2="1">
+      <stop offset="0" stop-color="#1e88e5"/>
+      <stop offset="1" stop-color="#0d5fb3"/>
+    </linearGradient>
+  </defs>
+  <rect width="490" height="420" rx="26" fill="url(#left)"/>
+  <rect x="490" width="490" height="420" rx="26" fill="url(#right)"/>
+  <path d="M490 38v344" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(70 110)">
+    <path d="M72 106h275c25 0 47 18 53 42l13 50H32l13-50c6-24 28-42 53-42Z" fill="#98a1aa"/>
+    <path d="M121 48h174c30 0 57 16 72 42l28 49H48l31-55c9-22 25-36 42-36Z" fill="#7f8994"/>
+    <path d="M128 68h149c25 0 48 13 61 35l12 20H84l21-36c5-12 13-19 23-19Z" fill="#c9d0d6"/>
+    <circle cx="111" cy="208" r="38" fill="#2d3742"/>
+    <circle cx="111" cy="208" r="17" fill="#6d7680"/>
+    <circle cx="325" cy="208" r="38" fill="#2d3742"/>
+    <circle cx="325" cy="208" r="17" fill="#6d7680"/>
+    <g fill="#6f5d47" opacity=".55">
+      <circle cx="90" cy="89" r="7"/>
+      <circle cx="147" cy="141" r="9"/>
+      <circle cx="278" cy="94" r="8"/>
+      <circle cx="356" cy="158" r="10"/>
+      <path d="M184 123c32 8 71 9 116 2" stroke="#6f5d47" stroke-width="12" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(560 88)">
+    <path d="M72 128h275c25 0 47 18 53 42l13 50H32l13-50c6-24 28-42 53-42Z" fill="#ffffff"/>
+    <path d="M121 70h174c30 0 57 16 72 42l28 49H48l31-55c9-22 25-36 42-36Z" fill="url(#carClean)"/>
+    <path d="M128 90h149c25 0 48 13 61 35l12 20H84l21-36c5-12 13-19 23-19Z" fill="#d8efff"/>
+    <circle cx="111" cy="230" r="38" fill="#1a2c3f"/>
+    <circle cx="111" cy="230" r="17" fill="#d8efff"/>
+    <circle cx="325" cy="230" r="38" fill="#1a2c3f"/>
+    <circle cx="325" cy="230" r="17" fill="#d8efff"/>
+    <g fill="#a5d6a7">
+      <path d="M77 52l13 25 27 5-20 19 4 27-24-13-24 13 4-27-20-19 27-5Z"/>
+      <circle cx="372" cy="77" r="12"/>
+      <circle cx="335" cy="37" r="8"/>
+      <circle cx="408" cy="137" r="7"/>
+    </g>
+    <path d="M63 180h348" stroke="#d7e7f5" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="56" y="58" font-size="27" fill="#5d6770">Before</text>
+    <text x="546" y="58" font-size="27" fill="#1e88e5">After</text>
+  </g>
+</svg>

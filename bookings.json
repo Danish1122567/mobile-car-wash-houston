@@ -1,0 +1,22 @@
+[
+  {
+    "id": "booking_1779016063364",
+    "createdAt": "2026-05-17T11:07:43.364Z",
+    "fullName": "Alex",
+    "phone": "+1 64446665",
+    "location": "katy",
+    "carType": "Alto",
+    "serviceType": "Basic Wash",
+    "preferredTime": "Today 5:00 PM"
+  },
+  {
+    "id": "booking_1779017469081",
+    "createdAt": "2026-05-17T11:31:09.081Z",
+    "fullName": "ALex",
+    "phone": "+1 64564846",
+    "location": "Katy",
+    "carType": "Alto",
+    "serviceType": "Basic Wash",
+    "preferredTime": "Today 5:00 PM"
+  }
+]
